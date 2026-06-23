@@ -1,0 +1,1 @@
+0 2 * * * /home/user/project/scripts/backup.sh
